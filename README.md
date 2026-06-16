@@ -1,6 +1,6 @@
 # BiCLIP: Bidirectional and Consistent Language-Image Processing for Robust Medical Image Segmentation
 
-This repository accompanies a paper currently under peer review.
+This repository accompanies a paper submitted to the *Expert Systems with Applications* journal.
 
 ---
 
